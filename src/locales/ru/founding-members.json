@@ -1,11 +1,11 @@
 {
   "foundingMembers": {
     "general": {
-      "foundingMembers": "Founding Members",
-      "nonFoundingMembers": "Non-Founding Members",
-      "directScore": "Direct Score",
-      "referralScore": "Referral Score",
-      "totalScore": "Total Score",
+      "foundingMembers": "Основатели",
+      "nonFoundingMembers": "Не основатели",
+      "directScore": "Прямой счет",
+      "referralScore": "Реферальный балл",
+      "totalScore": "Общий балл",
       "inducted": "Inducted",
       "member": "Member",
       "backButton": "Back to Program page",
@@ -15,50 +15,50 @@
       "howItWorks": "How it works.",
       "inputPlaceholder": "e.g. joedoe",
       "inductionDate": "Induction Date",
-      "joinOurDiscord": "Join our Discord",
+      "joinOurDiscord": "Присоединяйтесь к нашему Discord",
       "earnMorePoints": "Earn more points?"
     },
     "scoringPeriod": {
-      "title": "Current scoring period",
-      "currentNumber": "Current period number",
+      "title": "Текущий скоринговой период",
+      "currentNumber": "Номер текущего периода",
       "ends": "ENDS",
       "endedOn": "ENDED ON",
       "weeks": "WEEKS",
       "days": "DAYS",
       "hours": "HOURS",
       "minutes": "MINUTES",
-      "submitSummary": "Submit Summary",
-      "periodAnnouncement": "Period Announcement",
-      "announcement": "Announcement"
+      "submitSummary": "Отправить резюме",
+      "periodAnnouncement": "Объявление периода",
+      "announcement": "Объявление"
     },
     "landing": {
       "siteMetadata": {
         "title": "Founding Members",
-        "description": "Information and data regarding the new Founding Members Program of the Joystream platform."
+        "description": "Информация и данные о новой Программе учредителей платформы Joystream."
       },
       "hero": {
-        "title": "Joystream Founding Member Program",
-        "text": "Founding Members are highly effective project contributors awarded JOY tokens in the mainnet genesis block.",
-        "imageAlt": "founding members visual"
+        "title": "Программа для учредителей Joystream",
+        "text": "Члены-учредители являются высокоэффективными участниками проекта, награжденными токенами JOY в блоке генезиса основной сети.",
+        "imageAlt": "визуальный элемент-учредитель"
       },
       "list": {
-        "currentMembers": "Current founding members",
-        "newMembers": "New founding members",
-        "iconAlt": "icon of founding member"
+        "currentMembers": "Действующие члены-учредители",
+        "newMembers": "Новые члены-учредители",
+        "iconAlt": "значок члена-учредителя"
       },
       "benefits": {
-        "title": "What is the Founding <0/> Member Program <0/> and why does it exist?",
-        "currentlyBuilding": "While Jsgenesis is the team currently building the technology behind the Joystream project, we will not be around forever, and we are instead entrusting the future operation of the Joystream DAO to our community members.",
-        "foundingMembers": "The Founding Member Program formally allocates JOY tokens among some of our highest quality community members in recognition of their contributions to the project and ensures that a sufficiently large, effective and motivated community of users is ready to occupy all the different roles required to run, evolve and grow the platform on mainnet.",
-        "benefits": "Benefits",
-        "benefitsAlternate": "Benefits of becoming a founding member",
+        "title": "Что такое Программа <0/> <0/> и почему она существует?",
+        "currentlyBuilding": "В то время как Jsgenesis - это команда, которая в настоящее время создает технологию, лежащую в основе проекта Joystream, мы не будем рядом вечно, и вместо этого мы доверяем будущую работу Joystream DAO членам нашего сообщества.",
+        "foundingMembers": "Программа для членов-основателей официально распределяет токены JOY среди некоторых из наших членов сообщества самого высокого качества в знак признания их вклада в проект и гарантирует, что достаточно большое, эффективное и мотивированное сообщество пользователей готово занять все различные роли, необходимые для запуска, развития и развития платформы в основной сети.",
+        "benefits": "Преимущества",
+        "benefitsAlternate": "Преимущества стать членом-учредителем",
         "payout": {
-          "title": "Tokens",
-          "text": "allocated tokens in the genesis block of the Joystream mainnet as a result of high quality participation and recruiting other participants"
+          "title": "Токены",
+          "text": "выделенные токены в блоке генезиса основной сети Joystream в результате качественного участия и привлечения других участников"
         },
         "membership": {
-          "title": "Membership Status",
-          "text": "special status membership assigned in genesis block, which will have a visually distinguished presentation in Pioneer and other products"
+          "title": "Статус членства",
+          "text": "особый статус членства присвоен в блоке genesis, который будет иметь визуально выдающуюся презентацию в Pioneer и других продуктах"
         },
         "avatar": {
           "title": "Handcrafted Avatar",
